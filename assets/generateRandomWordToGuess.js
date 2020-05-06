@@ -1,6 +1,6 @@
 function getRandomNumberUpTo (max) {
   return Math.floor(Math.random() * max)
-}
+} 
 
 const wordElement = document.querySelector('#word-to-guess')
 const words = [
